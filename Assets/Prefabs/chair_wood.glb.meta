@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 9ead09e31b221f04189d881dde99b443
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.borde.wood
+    second: {fileID: 2100000, guid: aec0f8c11d80d6b4ea5aa89925c2d3d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: f059c851aa9f99b408af37bab1b609dd, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: 4c58e796e33c61f48a0298f34e5898a9, type: 3}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_1.normal
+    second: {fileID: 2800000, guid: 0f8b8a35994ee224fae5fa7ec2923279, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: ec531cb4ce1b85b4caa1dd0f9179f455
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Broccoli_mat
+    second: {fileID: 2100000, guid: e662bbe0edcf66f4485aa11048d5463e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fries_mat
+    second: {fileID: 2100000, guid: e63f224539433da4d83f78edd14f81d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plate_mat
+    second: {fileID: 2100000, guid: ab94ffdc4f1a2a84e81ed0c54d99ab18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Steak_mat
+    second: {fileID: 2100000, guid: 9fa3deebcbe50e94f87a616a16659766, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: c95d56ec691e7034591ccf7b68e15377, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

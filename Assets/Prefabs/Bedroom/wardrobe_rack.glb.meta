@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: c405c5b96931fdd43b46bc35429dd9e3
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rack
+    second: {fileID: 2100000, guid: 29ef3a09effe9a342bb214f8b5d7874b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rack.001
+    second: {fileID: 2100000, guid: 48c2fa7c64d85c54aa3546f9b03fdd60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wheels
+    second: {fileID: 2100000, guid: 39f57662f03a0fc4a84820a6f16a902e, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0
+    second: {fileID: 2800000, guid: 4201ab42f08f29b4291077d01d7e3869, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

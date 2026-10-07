@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 15276af9f6a353a41b638cec6ad04dfa
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_buttom_bloom
+    second: {fileID: 2100000, guid: 890a4bb91844d4e4b9b2798871147db3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_material
+    second: {fileID: 2100000, guid: 89d19d3693e6b624587a611b5952b27a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_sreen_material
+    second: {fileID: 2100000, guid: 30c2290fa170d8b48bcb3411407c6c30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_stand
+    second: {fileID: 2100000, guid: 86bed300cc1f5104fa00e7e8c59bca7b, type: 2}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0

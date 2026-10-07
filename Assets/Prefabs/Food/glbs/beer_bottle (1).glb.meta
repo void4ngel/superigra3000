@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: f8d4fde06766dd047aa1beaf0b97932d
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIMITE_LIQUIDO
+    second: {fileID: 2100000, guid: a749da4361010364f9a8fd933f31f3cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LIQUIDO
+    second: {fileID: 2100000, guid: 59608dedf492cab4aa3147097fc2223c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TAMPA
+    second: {fileID: 2100000, guid: be37c8d97977eaf4e95ba5e7f6dea329, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VIDRO_DENTRO
+    second: {fileID: 2100000, guid: a2e000f8c7e03bd41949e74df3469aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: VIDRO_FORA
+    second: {fileID: 2100000, guid: c910de738b134714393f8b992be87870, type: 2}
+  - first:
+      type: UnityEngine:Texture
+      assembly: UnityEngine.CoreModule
+      name: texture_0.normal
+    second: {fileID: 2800000, guid: bcf42f7c94c69e343a5e1536569e39ce, type: 3}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc45016b844e7624dae3aec10fb443ea, type: 3}
+  reverseAxis: 0
+  renderPipeline: 0
